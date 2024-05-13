@@ -1,5 +1,5 @@
 # Nome: Gabriel Souza Michaliszyn RA: 1112024101187
-# Raciocínio Computacional (11100010563_20241_01) | Semana 8 } Atividade Somativa 2
+# Raciocínio Computacional (11100010563_20241_01) | Semana 8 | Atividade Somativa 2
 
 import json
 
