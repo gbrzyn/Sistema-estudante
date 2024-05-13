@@ -153,7 +153,7 @@ def converter(param, value):
             case _:
                 print("\nERRO DE VALIDAÇÃO: Propriedade com tipo não suportado!\n")
                 return None
-    except:
+    except ValueError:
         print(f"\nValor inválido! A propriedade [{formatar(param["name"], "param")}] precisar ser do tipo {param["type"]}\n")
         return None
 
@@ -214,7 +214,7 @@ def pesquisar(opcao_data, opcao_params):
         try:
             #Subtrair 1 do valor lido para normalizar o index de acordo com o range da lista
             index = int(input("\nInforme o número do termo para pesquisa: ")) - 1
-        except:
+        except ValueError:
             print("\nValor inválido! Informe um número relacionado ao termo\n")
             continue
 
@@ -275,7 +275,7 @@ def recuperar_data_json(file_name):
     try:
         with open(file_name, "r", encoding="utf-8") as file:
             return json.load(file)
-    except:
+    except FileNotFoundError:
         return []
 
 #Função de operaçòes CRUD para todas as classes
