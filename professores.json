@@ -1,0 +1,27 @@
+[
+  {
+    "código": 223,
+    "nome": "Augusto Oliveira",
+    "cpf": "256.478.694-78"
+  },
+  {
+    "código": 48,
+    "nome": "Ana Nunes Machado",
+    "cpf": "665.441.237-88"
+  },
+  {
+    "código": 14,
+    "nome": "Mathias Shultz",
+    "cpf": "464.646.464-64"
+  },
+  {
+    "código": 874,
+    "nome": "Marcos Duarte",
+    "cpf": "324.511.982-63"
+  },
+  {
+    "código": 214,
+    "nome": "Vinicius Marcondes",
+    "cpf": "663.521.748-65"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "código": 98,
+    "nome": "Gabriel Souza Michaliszyn",
+    "cpf": "000.000.000-00"
+  },
+  {
+    "código": 4451,
+    "nome": "Alane Souza Lopes",
+    "cpf": "999.999.999-99"
+  },
+  {
+    "código": 65,
+    "nome": "Fulano da Silva",
+    "cpf": "555.555.555-55"
+  },
+  {
+    "código": 22,
+    "nome": "Ciclano Oliveira",
+    "cpf": "222.222.222-22"
+  },
+  {
+    "código": 15,
+    "nome": "Gabriela Silva",
+    "cpf": "121.212.121-21"
+  },
+  {
+    "código": 45,
+    "nome": "Guilherme Almeida",
+    "cpf": "123.456.789-11"
+  },
+  {
+    "código": 59,
+    "nome": "Jorge Mandira",
+    "cpf": "894.894.894-89"
+  },
+  {
+    "código": 12,
+    "nome": "Matheus Bolivar",
+    "cpf": "123.123.123-12"
+  },
+  {
+    "código": 556,
+    "nome": "João Paulo",
+    "cpf": "787.878.787-87"
+  }
+]
